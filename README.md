@@ -1,2 +1,2 @@
 # hpodraw
-Draw graphh diagrams in SVG representing the HPO
+Draw graph diagrams in SVG representing the HPO
